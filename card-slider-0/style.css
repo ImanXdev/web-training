@@ -1,0 +1,8 @@
+body {
+    background: #f3f3f3;
+    overflow: hidden;
+}
+
+.card-group {
+    display: inline;
+}
